@@ -1,0 +1,8 @@
+para ingresar al sistema utilizar el usuario:
+
+usuario:
+juanvelasquez	
+
+
+Password:
+Prueba123
